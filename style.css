@@ -1,7 +1,15 @@
-.presentacion#lol {
-    color:brown;
+.portada_ {
+    position: absolute;
+    width: 100%;
 }
 
-.nombre {
-    padding-bottom:0ch;
+.perfil_ {
+    position: absolute;
+    width: 15%;
+    top: 200px; left: 45px;
+
+}
+
+.datos_1{
+    text-decoration: underline;
 }

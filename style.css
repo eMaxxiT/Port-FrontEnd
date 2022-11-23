@@ -1,15 +1,25 @@
 .portada_ {
-    position: absolute;
     width: 100%;
+    top: 0px;
+    left: 0px;
 }
 
 .perfil_ {
-    position: absolute;
+    position:relative;
     width: 15%;
-    top: 200px; left: 45px;
+    top: -230px; left: 45px;
 
 }
 
-.datos_1{
-    text-decoration: underline;
+.datos_1 {
+    position: relative;
+    top: -230px;
+    left: 30px;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 44%;
+}
+
+.bloque_1 {
+    
 }
